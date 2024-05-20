@@ -20,7 +20,7 @@ Hi there, I'm shvquu 👋
 💻 Coding in Java ☕, JavaScript 🐍
 📫 Reach me on Discord: @shvquu  
 
-🔗 **Socials**: [@einbettausrosen](https://instagram.com/shvquu) | [@Ravanity](https://twitter.com/ravanitynetwork)
+🔗 **Socials**: [@shvquu](https://instagram.com/shvquu) | [@Ravanity](https://twitter.com/ravanitynetwork)
 
 🛠️ **Organizations**: [@Ravanity](https://github.com/Ravanity)
 
