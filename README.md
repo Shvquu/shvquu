@@ -17,7 +17,7 @@ Hi there, I'm shvquu 👋
 
 🌍 Living in near Cologne, Germany 🇩🇪  
 🎶 Passionate about Coding, 🌄 Traveling  
-💻 Coding in Java ☕, JavaScript 🐍
+💻 Coding in Java ☕, JavaScript 🐍 
 📫 Reach me on Discord: @shvquu  
 
 🔗 **Socials**: [@shvquu](https://instagram.com/shvquu) | [@Ravanity](https://twitter.com/ravanitynetwork)
