@@ -21,9 +21,9 @@ Hi there, I'm shvquu 👋
 
 📫 Reach me on Discord: @shvquu  
 
-🔗 **Socials**: [@shvquu](https://instagram.com/shvquu) | [@Ravanity](https://twitter.com/ravanitynetwork)
+🔗 **Socials**: [@shvquu](https://instagram.com/shvquu) | [@ThePvPTemple](https://twitter.com/thepvptemple)
 
-🛠️ **Organizations**: [@Ravanity](https://github.com/Ravanity)
+🛠️ **Organizations**: [@ThePvPTemple](https://github.com/ThePvPTemple)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvquu&theme=dark" height="175" alt="languages graph"/>
