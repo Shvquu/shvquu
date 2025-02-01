@@ -19,9 +19,9 @@ Hi there, I'm shvquu 👋
 🎶 Passionate about Coding, 🌄 Traveling  
 💻 Coding in Java ☕, JavaScript 🐍 
 
-📫 Reach me on Discord: @shvquu  
+📫 Reach me on Discord: [@shvquu](https://shvquu.eu/discord)
 
-🔗 **Socials**: [@shvquu](https://twitter.com/shvquu)
+🔗 **Socials**: [@shvquu](https://linknect.net/@shvquu)
 
 🛠️ **Organizations**: [@???](https://github.com/???)
 
