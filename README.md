@@ -21,7 +21,7 @@ Hi there, I'm shvquu 👋
 
 📫 Reach me on Discord: [@shvquu](https://shvquu.eu/discord)
 
-🔗 **Socials**: [@shvquu](https://linknect.net/@shvquu)
+🔗 **Socials**: [@shvquu](https://shvquu.de/)
 
 🛠️ **Organizations**: [@ave-rip](https://github.com/ave-rip)
 
