@@ -23,7 +23,7 @@ Hi there, I'm shvquu 👋
 
 🔗 **Socials**: [@shvquu](https://shvquu.de/)
 
-🛠️ **Organizations**: [@ave-rip](https://github.com/ave-rip)
+🛠️ **Organizations**: [@VoxelLabs](https://github.com/voxellabs-minecraft)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvquu&theme=dark" height="175" alt="languages graph"/>
