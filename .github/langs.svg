@@ -1,0 +1,43 @@
+<svg width="380" height="172" viewBox="0 0 380 172" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg   { fill: #fdf4ee; }
+    .bdr  { fill: none; stroke: rgba(245,194,212,0.55); stroke-width: 1; }
+    .ttl  { font: 500 12px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #e8a0ba; letter-spacing: .06em; text-transform: uppercase; }
+    .lbl  { font: 400 12px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #3a3340; }
+    .pct  { font: 500 12px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #7a6e82; }
+    .trk  { fill: rgba(245,194,212,0.14); }
+    .div  { stroke: rgba(245,194,212,0.35); stroke-width: .5; }
+    @media (prefers-color-scheme:dark) {
+      .bg  { fill: #1d1820; }
+      .bdr { stroke: rgba(245,194,212,0.2); }
+      .lbl { fill: #ede8f0; }
+      .pct { fill: #9e8fa8; }
+      .trk { fill: rgba(245,194,212,0.07); }
+      .div { stroke: rgba(245,194,212,0.15); }
+    }
+  </style>
+
+  <rect class="bg"  x=".5" y=".5" width="379" height="171" rx="12"/>
+  <rect class="bdr" x=".5" y=".5" width="379" height="171" rx="12"/>
+
+  <text class="ttl" x="20" y="28">top languages</text>
+  <line class="div" x1="20" y1="40" x2="360" y2="40"/>
+
+  <!-- Java  65 % -->
+  <text class="lbl" x="20"  y="66">Java</text>
+  <text class="pct" x="360" y="66" text-anchor="end">65.0 %</text>
+  <rect class="trk" x="20" y="72" width="340" height="7" rx="3.5"/>
+  <rect x="20" y="72" width="221" height="7" rx="3.5" fill="#e8a0ba"/>
+
+  <!-- JavaScript  23 % -->
+  <text class="lbl" x="20"  y="103">JavaScript</text>
+  <text class="pct" x="360" y="103" text-anchor="end">23.0 %</text>
+  <rect class="trk" x="20" y="109" width="340" height="7" rx="3.5"/>
+  <rect x="20" y="109" width="78" height="7" rx="3.5" fill="#b8d8f0"/>
+
+  <!-- HTML / CSS  12 % -->
+  <text class="lbl" x="20"  y="140">HTML / CSS</text>
+  <text class="pct" x="360" y="140" text-anchor="end">12.0 %</text>
+  <rect class="trk" x="20" y="146" width="340" height="7" rx="3.5"/>
+  <rect x="20" y="146" width="41" height="7" rx="3.5" fill="#ddd0f0"/>
+</svg>
