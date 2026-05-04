@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<img src="https://shvquu.de/assets/m1.png" width="160" style="border-radius:50%;" align="right" alt="Sophie"/>
+
 # Hi, I'm Sophie 🌸
 
 **Registered Nurse · Pediatrics** &nbsp;|&nbsp; **Frontend & Java Developer**  
@@ -16,7 +18,7 @@
 🌱 &nbsp;Currently working on **Flux Browser** & **VoxelClient**  
 ☕ &nbsp;Coding in **Java**, **JavaScript** & **HTML/CSS**  
 💬 &nbsp;Ask me about pediatric nursing, browser engines or Minecraft modding  
-📫 &nbsp;Reach me on Discord: [@shvquu](https://shvquu.eu/discord)  
+📫 &nbsp;Reach me on Discord: [@shvquu](https://discord.gg/unionmc)  
 🔗 &nbsp;**Website**: [shvquu.de](https://shvquu.de/)  
 🛠️ &nbsp;**Organization**: [@VoxelLabs](https://github.com/voxellabs-minecraft)
 
