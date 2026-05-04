@@ -1,0 +1,48 @@
+<svg width="380" height="172" viewBox="0 0 380 172" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg   { fill: #fdf4ee; }
+    .bdr  { fill: none; stroke: rgba(245,194,212,0.55); stroke-width: 1; }
+    .ttl  { font: 500 12px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #e8a0ba; letter-spacing: .06em; text-transform: uppercase; }
+    .key  { font: 400 11px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #7a6e82; }
+    .val  { font: 500 22px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #3a3340; }
+    .dot  { fill: #e8a0ba; }
+    .div  { stroke: rgba(245,194,212,0.35); stroke-width: .5; }
+    @media (prefers-color-scheme:dark) {
+      .bg  { fill: #1d1820; }
+      .bdr { stroke: rgba(245,194,212,0.2); }
+      .key { fill: #9e8fa8; }
+      .val { fill: #ede8f0; }
+      .div { stroke: rgba(245,194,212,0.15); }
+    }
+  </style>
+
+  <rect class="bg"  x=".5" y=".5" width="379" height="171" rx="12"/>
+  <rect class="bdr" x=".5" y=".5" width="379" height="171" rx="12"/>
+
+  <text class="ttl" x="20" y="28">github stats</text>
+  <line class="div" x1="20" y1="40" x2="360" y2="40"/>
+
+  <!-- Row 1 -->
+  <!-- Stars -->
+  <circle class="dot" cx="29" cy="78" r="3"/>
+  <text class="key" x="38" y="81">Stars earned</text>
+  <text class="val" x="38" y="108">42</text>
+
+  <!-- Commits -->
+  <circle cx="199" cy="78" r="3" fill="#b8d8f0"/>
+  <text class="key" x="208" y="81">Total commits</text>
+  <text class="val" x="208" y="108">318</text>
+
+  <line class="div" x1="20" y1="124" x2="360" y2="124"/>
+
+  <!-- Row 2 -->
+  <!-- PRs -->
+  <circle cx="29" cy="142" r="3" fill="#ddd0f0"/>
+  <text class="key" x="38" y="145">Pull requests</text>
+  <text class="val" x="38" y="166">14</text>
+
+  <!-- Issues -->
+  <circle cx="199" cy="142" r="3" fill="#f5c2d4"/>
+  <text class="key" x="208" y="145">Issues opened</text>
+  <text class="val" x="208" y="166">7</text>
+</svg>
