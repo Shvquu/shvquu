@@ -30,6 +30,7 @@
 |---|---|---|
 | 🌐 **Flux Browser** | A clean, minimal custom browser | Java · JS · HTML/CSS |
 | ⛏️ **VoxelClient** | Minecraft 1.21.4 client mod | Java · Minecraft API |
+| ⛏️ **Artistry-Gaming** | A fivem hardcore rp server | JS · HTML/CSS |
 
 ---
 
