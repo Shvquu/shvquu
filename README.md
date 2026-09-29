@@ -20,7 +20,7 @@
 💬 &nbsp;Ask me about pediatric nursing, browser engines or Minecraft modding  
 📫 &nbsp;Reach me on Discord: [@shvquu](https://discord.gg/unionmc)  
 🔗 &nbsp;**Website**: [shvquu.net](https://shvquu.net/)  
-🛠️ &nbsp;**Organization**: [@VoxelLabs](https://github.com/voxellabs-minecraft)
+🛠️ &nbsp;**Organization**: [@Revoltox](https://github.com/Revoltox)
 
 ---
 
