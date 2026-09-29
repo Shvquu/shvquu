@@ -19,7 +19,7 @@
 ☕ &nbsp;Coding in **Java**, **JavaScript** & **HTML/CSS**  
 💬 &nbsp;Ask me about pediatric nursing, browser engines or Minecraft modding  
 📫 &nbsp;Reach me on Discord: [@shvquu](https://discord.gg/unionmc)  
-🔗 &nbsp;**Website**: [shvquu.de](https://shvquu.de/)  
+🔗 &nbsp;**Website**: [shvquu.net](https://shvquu.net/)  
 🛠️ &nbsp;**Organization**: [@VoxelLabs](https://github.com/voxellabs-minecraft)
 
 ---
